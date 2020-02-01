@@ -1,2 +1,8 @@
 haaaaahello hello
-this vaneni that bhayeni it chai hunna hai  guys
+git add .
+git commit -m " "
+git conflict hataune
+file change
+add .
+git commit
+git merge --continues
